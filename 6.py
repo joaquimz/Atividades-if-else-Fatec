@@ -5,4 +5,4 @@ senhausuario=(input("Digite sua senha: "))
 if usuario==usuario and senha==senhausuario:
     print("login com sucesso")
 else:
-    print("login e senha incorreto")
+    print("login ou senha incorreto")
